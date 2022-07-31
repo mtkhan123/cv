@@ -23,3 +23,12 @@ IOT Projects
 # Experience
 
  Yarn Marketting
+ 
+ # Bio Data
+ 
+ F/Name: Muhammad Rafi </br>
+ D.O.B.: 19-10-1988 </br>
+ N.I.C No.: 42201-9525474-9 </br>
+ Marital Status: Married </br>
+ Religion: Islam </br>
+ Nationality: Pakistani
